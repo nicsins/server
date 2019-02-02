@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import time
 from http.server import HTTPServer
-from server import Server
+from simpleServer.server import Server
 
 HOST_NAME = 'localhost'
 PORT_NUMBER = 8000
